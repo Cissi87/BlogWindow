@@ -150,6 +150,7 @@ public class MainWindow {
 				}
 			}
 		});
+		//this is a comment
 		list.setBounds(124, 324, 331, 82);
 		
 		Label lblBlogPosts = new Label(shell, SWT.NONE);
